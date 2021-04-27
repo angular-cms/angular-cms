@@ -1,3 +1,5 @@
+# The project has relocated to https://github.com/typijs
+
 # Angular Cms
 
 The single app CMS based on Angular, Express, NodeJs and MongoDB.
